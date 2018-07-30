@@ -17,6 +17,11 @@
         <option value="$PROJECT_DIR$/../cloudConfig/config-server/cloudConfig/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-config/pom.xml" />
+        <option value="$PROJECT_DIR$/service-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/service-miya/pom.xml" />
+        <option value="$PROJECT_DIR$/service-hii/pom.xml" />
+        <option value="$PROJECT_DIR$/service-turbine/pom.xml" />
       </list>
     </option>
   </component>

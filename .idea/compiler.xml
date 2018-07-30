@@ -8,10 +8,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-client" />
         <module name="config-server" />
+        <module name="eureka-config" />
         <module name="eureka-server" />
         <module name="service-feign" />
+        <module name="service-hello" />
         <module name="service-hi" />
+        <module name="service-hii" />
+        <module name="service-miya" />
         <module name="service-ribbon" />
+        <module name="service-turbine" />
         <module name="service-zuul" />
       </profile>
     </annotationProcessing>
@@ -20,10 +25,15 @@
       <module name="config" target="1.8" />
       <module name="config-client" target="1.8" />
       <module name="config-server" target="1.8" />
+      <module name="eureka-config" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="service-feign" target="1.8" />
+      <module name="service-hello" target="1.8" />
       <module name="service-hi" target="1.8" />
+      <module name="service-hii" target="1.8" />
+      <module name="service-miya" target="1.8" />
       <module name="service-ribbon" target="1.8" />
+      <module name="service-turbine" target="1.8" />
       <module name="service-zuul" target="1.8" />
       <module name="springcloudDemo" target="1.8" />
     </bytecodeTargetLevel>

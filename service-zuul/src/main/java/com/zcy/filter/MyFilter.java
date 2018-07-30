@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * Created by 491445 on 2018/7/26.
+ * Created by zcy on 2018/7/26.
  */
 @Component
 public class MyFilter extends ZuulFilter {
