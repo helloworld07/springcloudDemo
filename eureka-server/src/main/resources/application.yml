@@ -4,6 +4,7 @@ server:
 eureka:
   instance:
     hostname: localhost
+    lease-renewal-interval-in-seconds: 5 #心跳机制
   client:
     registerWithEureka: false
     fetchRegistry: false
@@ -13,3 +14,4 @@ eureka:
 spring:
   application:
     name: eurka-server
+

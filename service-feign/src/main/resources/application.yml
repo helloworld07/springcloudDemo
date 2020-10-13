@@ -10,3 +10,7 @@ spring:
 feign:
   hystrix:
     enabled: true
+stu-provide:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RetryRule #配置规则 重试
+url: http://localhost:8762
