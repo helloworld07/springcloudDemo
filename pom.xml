@@ -24,6 +24,8 @@
     <module>service-hi</module>
     <module>config-server</module>
     <module>config-client</module>
+    <module>dubbo-cus</module>
+    <module>dubbo-pro</module>
   </modules>
 
   <properties>
