@@ -22,7 +22,15 @@
         <option value="$PROJECT_DIR$/service-miya/pom.xml" />
         <option value="$PROJECT_DIR$/service-hii/pom.xml" />
         <option value="$PROJECT_DIR$/service-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-pro/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-cus/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-api/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/dj/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
