@@ -20,5 +20,6 @@ dubbo:
     name: dubbo #指定dubbo使用的协议
     port: 20880 #指定dubbo使用的端口
   registry:
-    address: N/A
+#    address: N/A
+    address: zookeeper://127.0.0.1:2181
     timeout: 10000 #指定注册到zk上超时时间，ms

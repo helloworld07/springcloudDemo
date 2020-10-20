@@ -10,7 +10,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class ConsumerController {
 
-    @Reference(url="dubbo://127.0.0.1:20880")  //注入要调用的服务
+    @Reference  //注入要调用的服务
+//    @Reference(url="dubbo://127.0.0.1:20880")  //注入要调用的服务
     private ProviderService providerService;
 
 
